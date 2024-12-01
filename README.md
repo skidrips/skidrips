@@ -10,10 +10,9 @@
 <img src="https://komarev.com/ghpvc/?username=skidrips&color=lightgrey&label=viewcount&base=120&abbreviated=true">
 </p>
 
-## Hello
+## welcome!
 <img src="https://cdn.discordapp.com/attachments/1091008984913289307/1229689228947099688/togif-2.gif" width="300"/>
-
-i'm still learning how to code, here's some projects i've worked on: </br>
+i'm tour. i'm still learning how to code, but here's some projects i've worked on: </br>
 `designer` of [zoomerchan.moe](https://zoomerchan.moe/)
 
 ### i mainly code in
