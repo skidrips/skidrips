@@ -13,7 +13,7 @@
 ## welcome!
 <img src="https://static.wikia.nocookie.net/silly-cat/images/f/f7/Apple_Cat.jpg/revision/latest?cb=20240116165838&format=original" width="300"/>
 i'm tour. i'm still learning how to code, but here's some projects i've worked on: </br>
-`designer` of https://zoomerchan.moe/
+### designer of https://zoomerchan.moe/
 
 ### i mainly code in
 - python  
