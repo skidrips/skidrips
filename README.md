@@ -38,25 +38,14 @@ i'm tour. i'm still learning how to code, but here's some projects i've worked o
     <td>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skidrips&show_icons=true&theme=radical" /> </td>
 <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidrips&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>  
-  
-  </tr>
- <table>
-<p align="left">
-  <a href="https://github.com/cop-discord/rival"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cop-discord&repo=rival&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/cop-discord/button_paginator"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cop-discord&repo=button_paginator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
 
-
-
-</p>
-
-
-## Socials
+## socials
    
 
 <p align="center">
   
   [<img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg' alt='github' height='40'>](https://github.com/skidrips)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://assets.guns.lol/guns_logo_no_background_cropped.png' alt='guns.lol' height='40'>](https://guns.lol/hurricane)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fglobe&psig=AOvVaw1LwbA5tQBHdpb_aDzoj5-u&ust=1733109881655000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCwvMjPhYoDFQAAAAAdAAAAABAE' alt='website' height='40'>](https://zoomerchan.moe/)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.svgrepo.com/show/289744/globe-internet.svg' alt='website' height='40'>](https://zoomerchan.moe/)
    
 </p>
 
