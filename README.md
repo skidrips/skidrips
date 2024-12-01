@@ -53,10 +53,7 @@ i'm tour. i'm still learning how to code, but here's some projects i've worked o
   
   [<img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg' alt='github' height='40'>](https://github.com/skidrips)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://assets.guns.lol/guns_logo_no_background_cropped.png' alt='guns.lol' height='40'>](https://guns.lol/hurricane)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.svgrepo.com/show/289744/globe-internet.svg' alt='website' height='40'>](https://zoomerchan.moe/)
-
-   <p align="center">
-     <img src="https://discord.c99.nl/widget/theme-4/921452818152435772.png>
-   </p>
-  
+   
 </p>
 
+<a align="center" href="https://discord.com" target="_blank"><img alt="discord" src="https://discord.c99.nl/widget/theme-4/921452818152435772.png"></a>
