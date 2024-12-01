@@ -30,7 +30,7 @@ i'm tour. i'm still learning how to code, but here's some projects i've worked o
 
 
 
-## 📊 github stats
+## github stats
 
 
 <table width="100%" align="center">
@@ -46,7 +46,7 @@ i'm tour. i'm still learning how to code, but here's some projects i've worked o
 </p>
 
 
-## Socials
+## socials
    
 
 <p align="center">
