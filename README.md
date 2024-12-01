@@ -56,6 +56,6 @@ i'm tour. i'm still learning how to code, but here's some projects i've worked o
    
 </p>
 
-<p align="center">  
+<p align="center">
 <img src="https://discord.c99.nl/widget/theme-4/921452818152435772.png>
 </p>
