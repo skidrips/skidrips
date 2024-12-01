@@ -11,9 +11,9 @@
 </p>
 
 ## welcome!
-<img src="https://cdn.discordapp.com/attachments/1091008984913289307/1229689228947099688/togif-2.gif" width="300"/>
+<img src="https://static.wikia.nocookie.net/silly-cat/images/f/f7/Apple_Cat.jpg/revision/latest?cb=20240116165838&format=original" width="300"/>
 i'm tour. i'm still learning how to code, but here's some projects i've worked on: </br>
-`designer` of [zoomerchan.moe](https://zoomerchan.moe/)
+`designer` of https://zoomerchan.moe/
 
 ### i mainly code in
 - python  
