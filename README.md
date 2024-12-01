@@ -38,8 +38,15 @@ i'm tour. i'm still learning how to code, but here's some projects i've worked o
     <td>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skidrips&show_icons=true&theme=radical" /> </td>
 <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidrips&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>  
+  
+  </tr>
+ <table>
 
-## socials
+
+</p>
+
+
+## Socials
    
 
 <p align="center">
